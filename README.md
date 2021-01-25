@@ -11,3 +11,5 @@ tri_voronoi_bump : ![](tri_voronoi_bump.jpg)
 simple_noise_remap : ![](simple_noise_remap.jpg)
 
 sg_noise_remap : same as simple_noise_remap + you choose between simple noise and gradient noise
+
+triplanar_noise :  object space triplanar noise (simple noise node) ![](triplanar_noise.jpg)
